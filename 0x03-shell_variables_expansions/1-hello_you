@@ -1,2 +1,2 @@
-#!/bin/bash
-echo "hello root"
+#!/bin/bash"
+echo "Hello $(root)!"
